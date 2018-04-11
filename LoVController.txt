@@ -1,1 +1,5 @@
-i controll the chacter
+Player Controller Work
+camera
+input system
+GUI
+//have i forgotten something

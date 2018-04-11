@@ -1,1 +1,5 @@
-im a camera or sothing
+VIEWCamera
+3rd person
+1st person
+battle view
+pause

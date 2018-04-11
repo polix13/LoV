@@ -1,3 +1,7 @@
-hello
-im a character
-walk
+character stuff
+dance
+play
+run
+duel 
+magic
+other
