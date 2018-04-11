@@ -1,0 +1,4 @@
+Camera
+-follow player
+third person
+first person

@@ -1,0 +1,6 @@
+character actions
+walk
+jump
+run
+fight
+talk
