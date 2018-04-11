@@ -6,10 +6,10 @@ jump press
 press menu
 press something
 GUI
-blah
-blah
-blah
-blah
+IM DA BESt
+FUNC1()
+FUNC2()
+FUNC3()
 blah
 blah
 blah

@@ -10,13 +10,24 @@ FUN1()
 
 }
 
+GAMECAMERA()1 == something
+76
+5
+4
+2
+32
 
 FUNC2()
 {
 
+
+fdg
+
 	do soemthing thinghs noiw
 
 }
+
+
 
 
 var gb_GAMEFUNC = 1;
