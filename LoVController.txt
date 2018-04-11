@@ -1,5 +1,8 @@
-Player controller actions
+Player Controller
+camera
+input system
 move press
 jump press
 press menu
 press something
+GUI

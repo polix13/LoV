@@ -1,4 +1,10 @@
 character actions
+dance
+play
+run
+duel 
+magic
+other
 walk
 jump
 run

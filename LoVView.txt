@@ -1,4 +1,6 @@
 Camera
--follow player
 third person
 first person
+battle view
+pause
+q
