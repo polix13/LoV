@@ -4,6 +4,12 @@ first person
 battle view
 pause
 q
+FUN1()
+{
+
+
+}
+
 GAMECAMERA()1 == something
 76
 5
@@ -11,12 +17,18 @@ GAMECAMERA()1 == something
 2
 32
 
-
-ffd
+FUNC2()
+{
 
 
 fdg
 
+	do soemthing thinghs noiw
+
+}
 
 
-sdf
+
+
+var gb_GAMEFUNC = 1;
+
