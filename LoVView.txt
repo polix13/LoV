@@ -3,3 +3,4 @@ VIEWCamera
 1st person
 battle view
 pause
+q
