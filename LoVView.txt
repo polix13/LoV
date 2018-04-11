@@ -1,1 +1,4 @@
-im a camera or sothing
+Camera
+-follow player
+third person
+first person

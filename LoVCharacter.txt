@@ -1,3 +1,6 @@
-hello
-im a character
+character actions
 walk
+jump
+run
+fight
+talk
