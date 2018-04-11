@@ -4,3 +4,20 @@ first person
 battle view
 pause
 q
+FUN1()
+{
+
+
+}
+
+
+FUNC2()
+{
+
+	do soemthing thinghs noiw
+
+}
+
+
+var gb_GAMEFUNC = 1;
+
