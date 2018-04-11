@@ -4,3 +4,19 @@ first person
 battle view
 pause
 q
+GAMECAMERA()1 == something
+76
+5
+4
+2
+32
+
+
+ffd
+
+
+fdg
+
+
+
+sdf

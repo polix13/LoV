@@ -6,3 +6,7 @@ jump press
 press menu
 press something
 GUI
+IM DA BESt
+FUNC1()
+FUNC2()
+FUNC3()
