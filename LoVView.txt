@@ -1,6 +1,6 @@
-VIEWCamera
-3rd person
-1st person
+Camera
+third person
+first person
 battle view
 pause
 q

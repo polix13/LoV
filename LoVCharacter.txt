@@ -1,8 +1,12 @@
-character stuff
+character actions
 dance
 play
 run
 duel 
 magic
 other
-LALALLALA
+walk
+jump
+run
+fight
+talk
